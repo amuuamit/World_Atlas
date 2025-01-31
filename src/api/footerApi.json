@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Mumbai, Maharashtra"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "8378027947"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "yadavamit8968@gmail.com"
+    }
+  ]
