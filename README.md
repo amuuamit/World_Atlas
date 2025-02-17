@@ -36,6 +36,10 @@ you can arrange the data Ascending order and Decending order.
 The application uses the GitHub API to fetch repository data. Below is an example of the API endpoint used:
 https://restcountries.com/v3.1/all?fields=name,population,region,capital,flags
 
+Contact
+
+For questions, reach out via GitHub Issues or email yadavamit8968@gmail.com.
+
 
 **Developed By ** 
 Amit Yadav.
