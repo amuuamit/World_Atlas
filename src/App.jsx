@@ -10,8 +10,8 @@ import Contact from './pages/Contact';
 import ErrorPage from './pages/ErrorPage';
 import AppLayout from './components/Layout/AppLayout';
 import CountryDetails from './components/Layout/CountryDetails';
-import Login from './pages/Login';
-import Register from './pages/Register';
+// import Login from './pages/Login';
+// import Register from './pages/Register';
 
 const router = createBrowserRouter([
   {
@@ -39,14 +39,14 @@ const router = createBrowserRouter([
         path: "contact",
         element: <Contact />,
       },
-      {
-        path: "login",
-        element: <Login />,
-      },
-      {
-        path: "register",
-        element: <Register />,
-      },
+      // {
+      //   path: "login",
+      //   element: <Login />,
+      // },
+      // {
+      //   path: "register",
+      //   element: <Register />,
+      // },
     ],
   },
 ]);

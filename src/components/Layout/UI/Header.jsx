@@ -27,8 +27,8 @@ const handleButtonToggle = () => {
                         <li><NavLink to="about" className="nav-link">About</NavLink></li>
                         <li><NavLink to="country" className="nav-link">Country</NavLink></li>
                         <li><NavLink to="contact" className="nav-link">Contact</NavLink></li>
-                <button><NavLink to="login" className="nav-link">Login</NavLink></button>
-                <button><NavLink to="register" className="bg-sky">Register</NavLink></button>
+                {/* <button><NavLink to="login" className="nav-link">Login</NavLink></button> */}
+                {/* <button><NavLink to="register" className="bg-sky">Register</NavLink></button> */}
                     </ul>
                 </nav>
                 <div className='ham-menu'>
