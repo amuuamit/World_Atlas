@@ -6,7 +6,10 @@ import { Outlet } from 'react-router-dom'
 const AppLayout = () => {
   return (
     <>
+    <div className='haeader-position'>
+
       <Header/>
+    </div>
       <Outlet/>
       <Footer/>
     </>

@@ -1,5 +1,4 @@
 import React from 'react';
-import AppLayout from './components/Layout/AppLayout';
 import './App.css';
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
@@ -9,7 +8,10 @@ import About from './pages/About';
 import Country from './pages/Country';
 import Contact from './pages/Contact';
 import ErrorPage from './pages/ErrorPage';
+import AppLayout from './components/Layout/AppLayout';
 import CountryDetails from './components/Layout/CountryDetails';
+import Login from './pages/Login';
+import Register from './pages/Register';
 
 const router = createBrowserRouter([
   {
@@ -36,6 +38,14 @@ const router = createBrowserRouter([
       {
         path: "contact",
         element: <Contact />,
+      },
+      {
+        path: "login",
+        element: <Login />,
+      },
+      {
+        path: "register",
+        element: <Register />,
       },
     ],
   },
