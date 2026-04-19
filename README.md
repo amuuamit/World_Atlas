@@ -1,10 +1,10 @@
-# World Atlas Project
+## World Atlas Project
 
 In this project we created a World atlas using react.js library.
 
 Deployed project link : [World Atlas](https://worldtouramit.netlify.app/)
 
-# Features of this app
+### Features of this app
 
 World Atlas is an interactive digital atlas providing geographical, political, and cultural information about countries worldwide. The project aims to make global data accessible through interactive maps, country profiles, and data visualization tools.
 
@@ -20,7 +20,7 @@ Data visualizations ## Technologies Used  -  React -  JavaScript -  HTML -  CSS 
 
 Hosting: Netlify
 
-## Usage
+### Usage
 Open the app in your browser.
 
 Search for a country or region.
