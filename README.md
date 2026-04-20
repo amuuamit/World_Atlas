@@ -2,7 +2,7 @@
 
 In this project we created a World atlas using react.js library.
 
-Deployed project link : [World Atlas](https://worldtouramit.netlify.app/)
+Deployed project link   : [World Atlas](https://worldtouramit.netlify.app/)
 
 ### Features of this app
 
